@@ -1,5 +1,5 @@
 %%
-%% This is file `phd_trieste.cls',
+%% This is file `postdoc_temp.cls',
 %%
 %% The original source files was: book.cls 
 %% 
